@@ -1,5 +1,6 @@
 pip
 streamlit
+torch
 datasets
 transformers
 diffusers
