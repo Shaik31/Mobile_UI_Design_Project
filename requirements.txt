@@ -1,12 +1,5 @@
-pandas
-seaborn
-scikit-learn
-tensorflow
-keras
-matplotlib
-yfinance
-plotly
-tqdm
+pip
 streamlit
-nbformat
--e .
+datasets
+transformers
+diffusers
